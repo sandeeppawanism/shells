@@ -8,3 +8,4 @@ echo "$2: is a good boy"
 echo "hello all"
 
  echo $(date)
+ 
